@@ -31,8 +31,8 @@ The identifier's approach is straightforward:
 1. If you are already installed Anaconda python you can skip this step
 https://www.anaconda.com/distribution/
 
-2. conda create -n plateocr pip python=3.7
-3. conda activate plateocr
+2. conda create -n yolo pip python=3.7
+3. conda activate yolo
 4. pip install -r requirements.txt
 5. apt-get install tesseract-ocr 
 6. ./darknet
