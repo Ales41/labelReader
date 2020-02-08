@@ -4,7 +4,7 @@
 
 # Demonstration
 <p align="center">
-<img src="https://drive.google.com/open?id=12WOtxsVp-8fZhbOFICzuteW6Zu9goOzf" alt="Demonstration" height="450">
+<img src="https://github.com/kishorkuttan/labelReader/blob/master/demo_new.gif" alt="Demonstration" height="450">
 </p>
 
 # The Approach
