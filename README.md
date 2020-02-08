@@ -19,21 +19,21 @@ The identifier's approach is straightforward:
 
 ### Details
 
-LabelReader uses the [Yolov3 algorithm](https://pjreddie.com) for object detection. The user can choose between the following to interact with the algorithm:
+1. LabelReader uses the [Yolov3 algorithm](https://pjreddie.com) for object detection. The user can choose between the following to interact with the algorithm:
 * [Darknet](https://github.com/AlexeyAB/darknet)  (Fast, C Implementation) 
 * [Keras-Yolov3](https://github.com/qqwweee/keras-yolo3) (Python Implementation) 
 
-A pretrained model is provided in the repo
-link : "https://drive.google.com/open?id=1-48BHxaXTEZv3nwZEN7jAbdPLi2x40v7". 
-download the model and copy it to the directory
-for custom training follows this tutorial "https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36"
+2. A pretrained model is provided in the repo
+3. link : "https://drive.google.com/open?id=1-48BHxaXTEZv3nwZEN7jAbdPLi2x40v7". 
+4. download the model and copy it to the directory
+5. for custom training follows this tutorial "https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36"
 ### Setup
-if you are already installed Anaconda python you can skip this step
+1. if you are already installed Anaconda python you can skip this step
 https://www.anaconda.com/distribution/
 
-conda create -n plateocr pip python=3.7
-pip install -r requirements.txt
-apt-get install tesseract-ocr 
+2. conda create -n plateocr pip python=3.7
+3. pip install -r requirements.txt
+4. apt-get install tesseract-ocr 
 
 
 
@@ -41,7 +41,7 @@ apt-get install tesseract-ocr
 # Getting Started
 
 Run the main script
-python main.py
+1. python main.py
 
 
 
