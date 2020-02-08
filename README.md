@@ -32,8 +32,9 @@ The identifier's approach is straightforward:
 https://www.anaconda.com/distribution/
 
 2. conda create -n plateocr pip python=3.7
-3. pip install -r requirements.txt
-4. apt-get install tesseract-ocr 
+3. conda activate plateocr
+4. pip install -r requirements.txt
+5. apt-get install tesseract-ocr 
 
 
 
