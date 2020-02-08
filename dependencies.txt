@@ -1,9 +1,0 @@
-pillow
-requests
-pexpect
-
-opencv-python
-keras
-tensorflow
-matplotlib
-
