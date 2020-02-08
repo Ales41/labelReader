@@ -43,7 +43,7 @@ https://www.anaconda.com/distribution/
 # Getting Started
 
 Run the main script
-1. python main.py
+1. python app.py
 
 
 
