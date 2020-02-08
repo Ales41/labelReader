@@ -35,6 +35,7 @@ https://www.anaconda.com/distribution/
 3. conda activate plateocr
 4. pip install -r requirements.txt
 5. apt-get install tesseract-ocr 
+6. ./darknet
 
 
 
