@@ -24,11 +24,11 @@ The identifier's approach is straightforward:
 * [Keras-Yolov3](https://github.com/qqwweee/keras-yolo3) (Python Implementation) 
 
 2. A pretrained model is provided in the repo
-3. link : "https://drive.google.com/open?id=1-48BHxaXTEZv3nwZEN7jAbdPLi2x40v7". 
-4. download the model and copy it to the directory
-5. for custom training follows this tutorial "https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36"
+3. Link : "https://drive.google.com/open?id=1-48BHxaXTEZv3nwZEN7jAbdPLi2x40v7". 
+4. Download the model and copy it to the directory
+5. For custom training follows this tutorial "https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36"
 ### Setup
-1. if you are already installed Anaconda python you can skip this step
+1. If you are already installed Anaconda python you can skip this step
 https://www.anaconda.com/distribution/
 
 2. conda create -n plateocr pip python=3.7
