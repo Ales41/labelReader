@@ -40,6 +40,7 @@ class DarknetClassifier(Classifier):
 		Output: area (Tuple of four ints), which gives the area of the bounding box.
 		'''
 		nameplate_info = line.split()
+		#print(nameplate_info)
 		nameplate_confidence = nameplate_info[1]
 		nameplate_left_x = int(nameplate_info[3])
 		nameplate_top_y = int(nameplate_info[5])

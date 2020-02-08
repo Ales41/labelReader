@@ -1,6 +1,7 @@
 from utils.ocr import OCR
 import pyocr
 import pyocr.builders
+import pytesseract
 import sys
 from PIL import Image
 from typing import Tuple
@@ -18,7 +19,7 @@ class TesseractOCR(OCR):
 
 	def ocr_one_image(self, area, image, threadList=-1, threadNum=None):
 		print("Starting image...")
-		txt = self.tool.image_to_string(image, lang=self.langs[0], builder=pyocr.builders.TextBuilder())
+		txt = pytesseract.image_to_string(image,lang='eng')
 		print("==RESULT==" + str(area) + "\n" + txt + "\n==========================")
 		if threadList != -1:
 			threadList[threadNum] = txt
