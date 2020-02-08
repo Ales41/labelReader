@@ -23,7 +23,7 @@ The identifier's approach is straightforward:
 * [Darknet](https://github.com/AlexeyAB/darknet)  (Fast, C Implementation) 
 * [Keras-Yolov3](https://github.com/qqwweee/keras-yolo3) (Python Implementation) 
 
-2. A pretrained model is provided in the repo
+2. A pretrained model can be downloaded
 3. Link : "https://drive.google.com/open?id=1-48BHxaXTEZv3nwZEN7jAbdPLi2x40v7". 
 4. Download the model and copy it to the directory
 5. For custom training follows this tutorial "https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36"
