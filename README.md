@@ -4,7 +4,7 @@
 
 # Demonstration
 <p align="center">
-<img src="https://user-images.githubusercontent.com/14065974/41622209-bcca5a84-73c3-11e8-84e7-00eae15f3011.gif" alt="Demonstration" height="450">
+<img src="https://drive.google.com/open?id=12WOtxsVp-8fZhbOFICzuteW6Zu9goOzf" alt="Demonstration" height="450">
 </p>
 
 # The Approach
